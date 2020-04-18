@@ -1,15 +1,10 @@
-# PAI Lab assignment (lab, class presentation with slides) structure
+ # Exposición PAI: WebGL
 
-This directory is organised as follows:
+ ## Ejemplos:
 
-      .
-      ├── bib          # Assignment bibliography
-      ├── report       # LaTeX template for the report
-      ├── slides       # LaTeX Beamer template for the slides
-      ├── tests        # Source code for tests
-      ├── src          # Source code
+ * [Ejemplo 1: Estrella 2D](ejemplo1.html "Estrella 2D")
+ * [Ejemplo 2: Estrella 2D animada](ejemplo2.html "Estrella 2D animada")
+ * [Ejemplo 3: Estrella 3D animada](ejemplo3.html "Estrella 3D animada")
 
-For each assignment there should be a markdown file with the assignment description.
-Find that file and follow the instructions in it.
-
-When the evaluation session of the assignment is over, **do not forget** to upload the link to your repository to the virtual classroom.
+ Luciana Varela Díaz
+ Cristo Daniel Navarro Rodríguez
