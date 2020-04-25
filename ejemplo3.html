@@ -4,8 +4,15 @@
     <title>First example: 3D Animated star</title>
     <script src="src/gl-matrix.js"></script>
     <script src="src/ejemplo3.js"></script>
+    <script> 
+      function changeURL() {
+        location.href = 'https://ull-esit-inf-pai-2019-2020.github.io/2019-2020-pai-trabajo-webgl-webgl/index.html';
+      }
+    </script>
+    <link rel="stylesheet" type="text/css" href="css/button-style.css">
   </head>
   <body onload="main();">
+    <button class="button" onclick="changeURL();">Home</button>
     <canvas id = "star" width = "800" height = "800" style="border:3px solid #000000;"></canvas>
   </body>
 </html>
